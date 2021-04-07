@@ -5,7 +5,7 @@
 
 > 持续更新中，欢迎交流讨论
 >    
-> 个人邮箱 xiejianzhangmail@163.com
+> wechat:potaxie
 >     
 
 
