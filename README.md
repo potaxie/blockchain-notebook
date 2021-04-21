@@ -1,7 +1,7 @@
 
 # blockchain-notebook
 
-
+https://teams.microsoft.com/l/meetup-join/19:meeting_YmYwMjRkNjktOWM0YS00MjIyLTk3MzUtYWUzZmNmMTdlNjM4@thread.v2/0?context=%7B%22Tid%22:%22278ad577-c008-4fc4-ad48-4467be94beb5%22,%22Oid%22:%221bd32c6f-ad71-42d6-957d-0c0bb4ebc8e8%22%7D
 
 根据个人对区块链技术体系的理解，将需要学习的核心知识点和技术细节记录下来
 
